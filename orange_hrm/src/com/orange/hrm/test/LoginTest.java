@@ -15,8 +15,8 @@ public void verifyAdminLoginSuccesfull()
 	LoginPage lp=new LoginPage();
 	lp.login();
 	
-	AddEmployeePage ae=new AddEmployeePage();
-	ae.addEmp();
+	//AddEmployeePage ae=new AddEmployeePage();
+	//ae.addEmp();
 	
 	AddUserPage au=new AddUserPage();
 	au.addUser();

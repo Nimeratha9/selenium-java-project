@@ -18,8 +18,8 @@ public void verifyAdminLoginSuccesfull()
 	//AddEmployeePage ae=new AddEmployeePage();
 	//ae.addEmp();
 	
-	AddUserPage au=new AddUserPage();
-	au.addUser();
+	//AddUserPage au=new AddUserPage();
+	//au.addUser();
 	
 	}	
 	
